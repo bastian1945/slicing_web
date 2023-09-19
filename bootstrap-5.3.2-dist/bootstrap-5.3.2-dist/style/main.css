@@ -1,0 +1,493 @@
+.container-fluid .h4 {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 35.998px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.container-fluid .span-color {
+  color: #AF2DFF;
+}
+.container-fluid .bahagia {
+  margin-right: 30px;
+  gap: 1rem;
+}
+.container-fluid .nav-item {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 17.999px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container-fluid .submit {
+  margin-right: 4rem;
+  border-radius: 19.999px;
+  background: #AF2DFF;
+  color: var(--white, #FFF);
+  font-family: Poppins;
+  font-size: 19.999px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  display: inline-flex;
+  padding: 16.002px 35.934px 15.994px 35.059px;
+  justify-content: center;
+  align-items: center;
+}
+.container-fluid .submit:hover {
+  background-color: rgb(199, 101, 199);
+}
+
+.milk {
+  background: #F3DEFF;
+}
+
+.head .row .kiri .content {
+  margin-top: 9rem;
+}
+.head .row .kiri .laptop {
+  font-family: Literata;
+  font-size: 63.997px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.head .row .kiri .bastian {
+  color: #AF2DFF;
+}
+.head .row .kiri .abi {
+  color: rgba(175, 45, 255, 0.25);
+}
+.head .row .kiri .coding {
+  color: #6E00B2;
+  font-family: Inter;
+  font-size: 19.999px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 29.998px; /* 150% */
+}
+
+.container .row .col .img-fluid {
+  width: 551.101px;
+  height: 603.412px;
+  flex-shrink: 0;
+}
+.container .row .col .asik .img {
+  width: 644.63px;
+  height: 323.448px;
+  flex-shrink: 0;
+}
+.container .row .col .meja {
+  text-align: left;
+  margin-left: 5rem;
+}
+.container .row .col .peci {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Literata;
+  font-size: 35.829px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.container .row .col .sajadah {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 14.182px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container .row .col .ucup {
+  display: inline-flex;
+  padding: 6.663px 15.188px 6.832px 15.14px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6.057px;
+  background: #AF2DFF;
+}
+
+.kaleng {
+  background: rgba(175, 45, 255, 0.15);
+  height: 857.957px;
+  flex-shrink: 0;
+}
+
+.ketik {
+  color: #AF2DFF;
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: left;
+}
+
+.roam {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Literata;
+  font-size: 47.998px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.row .tanah .objektif {
+  width: 341.52px;
+  height: 436.998px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background: var(--white, #FFF);
+  margin-top: 7rem;
+}
+.row .tanah .tenggara .kabel {
+  width: 341.52px;
+  height: 185.449px;
+  flex-shrink: 0;
+  padding-top: 0;
+}
+.row .tanah .serong {
+  text-align: center;
+}
+.row .tanah .mamat {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 16.525px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+.row .tanah .selimut {
+  color: var(--Blue-Purple, #9D9CA1);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14.182px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+.row .tanah .row .aqidah {
+  display: flex;
+  justify-content: space-between;
+}
+
+.col-md-4 .layanan {
+  width: 341.52px;
+  height: 436.998px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background: var(--white, #FFF);
+  margin-bottom: 6rem;
+}
+.col-md-4 .layanan .jago {
+  width: 337.981px;
+  height: 201.99px;
+  flex-shrink: 0;
+}
+.col-md-4 .layanan .sendok {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+.col-md-4 .layanan .centong {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 17.999px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+.col-md-4 .layanan .masker {
+  color: var(--Blue-Purple, #9D9CA1);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14.182px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.col-md-4 .Menghemat {
+  width: 341.52px;
+  height: 436.998px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background: var(--white, #FFF);
+  margin-top: 7rem;
+}
+.col-md-4 .ubin {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 22.034px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+.col-md-4 .minyak {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 16.525px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+.col-md-4 .gedung {
+  color: var(--Blue-Purple, #9D9CA1);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14.182px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.casan {
+  background: #EEEAE1;
+}
+
+.row .kanan {
+  width: 582px;
+  height: 424px;
+  flex-shrink: 0;
+}
+.row .kiri .content {
+  margin-top: 3rem;
+}
+.row .kiri .pensil {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Literata;
+  font-size: 42.998px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.row .kiri .penghapus {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.row .kiri .listrik .tombol {
+  display: inline-flex;
+  padding: 11px 24.993px 10.998px 24.999px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9.999px;
+  background: #AF2DFF;
+}
+
+.roll {
+  background-image: url("Rectangle-29.jpg");
+  height: 1355.932px;
+  flex-shrink: 0;
+}
+
+.mahasiswa {
+  color: var(--Bluish-Cyan, #2AB9CC);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.jidat {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Literata;
+  font-size: 47.998px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+}
+
+.rapopo {
+  width: 395.975px;
+  height: 383.976px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  margin-left: 26rem;
+  margin-top: 5rem;
+}
+
+.korek {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.gope {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+
+.salep {
+  margin-left: 31rem;
+}
+
+.row .pasti {
+  display: flex;
+  justify-content: space-between;
+  gap: 11rem;
+}
+.row .semangat {
+  margin-left: 5rem;
+  height: 15rem;
+}
+.row .lemes {
+  height: 15rem;
+}
+
+footer {
+  background: #F3E0FF;
+  height: 479px;
+}
+
+.row .stadion {
+  margin-top: 3rem;
+}
+.row .rambut {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.44px;
+}
+
+span {
+  color: #AF2DFF;
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.44px;
+}
+
+.bola {
+  color: var(--Blue-Purple, #9D9CA1);
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.piring {
+  margin-top: 3rem;
+}
+
+.garpu {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 2rem;
+}
+
+.telur {
+  margin-top: 2rem;
+  list-style: none;
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.sticker {
+  margin-top: 3rem;
+}
+
+.buku {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 2rem;
+}
+
+.layar {
+  list-style: none;
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 1rem;
+}
+
+.tombol {
+  margin-top: 3rem;
+}
+
+h6 {
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 23.999px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 2rem;
+}
+
+.gagang {
+  list-style: none;
+  color: var(--Cloud-Burst, #222864);
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.fudail {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.gosong {
+  color: red;
+}
+
+.ban {
+  color: gold;
+}
+
+.aqidah {
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=main.css.map */
